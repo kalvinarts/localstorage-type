@@ -1,0 +1,14 @@
+{
+  "name": "localstorage-type",
+  "version": "0.0.1",
+  "description": "Checks for localstorage type preservation of the data types and hacks it to work well if not",
+  "main": "build/localsotrage-type.js",
+  "author": "Albert Calbet <kalvinarts@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-util": "^3.0.6"
+  }
+}

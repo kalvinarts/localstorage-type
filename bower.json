@@ -1,0 +1,24 @@
+{
+  "name": "localstorage-type",
+  "version": "0.0.1",
+  "authors": [
+    "Albert Calbet <kalvinarts@gmail.com>"
+  ],
+  "description": "Checks for localstorage keeping data types and uses descriptors for the set items if not",
+  "main": "localstorage-type.js",
+  "moduleType": [],
+  "keywords": [
+    "localstorage",
+    "type"
+  ],
+  "license": "MIT",
+  "homepage": "codefu.rocks",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
